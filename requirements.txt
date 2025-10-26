@@ -1,1 +1,7 @@
+Flask>=2.3.0
+flask-jsonpify
+python-socketio
 websocket-client
+requests
+gunicorn
+
